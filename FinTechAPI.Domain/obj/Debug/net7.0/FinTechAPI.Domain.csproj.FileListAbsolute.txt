@@ -1,0 +1,12 @@
+C:\.Net Projects\FinTechAPI\FinTechAPI.Domain\bin\Debug\net7.0\FinTechAPI.Domain.deps.json
+C:\.Net Projects\FinTechAPI\FinTechAPI.Domain\bin\Debug\net7.0\FinTechAPI.Domain.dll
+C:\.Net Projects\FinTechAPI\FinTechAPI.Domain\bin\Debug\net7.0\FinTechAPI.Domain.pdb
+C:\.Net Projects\FinTechAPI\FinTechAPI.Domain\obj\Debug\net7.0\FinTechAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Net Projects\FinTechAPI\FinTechAPI.Domain\obj\Debug\net7.0\FinTechAPI.Domain.AssemblyInfoInputs.cache
+C:\.Net Projects\FinTechAPI\FinTechAPI.Domain\obj\Debug\net7.0\FinTechAPI.Domain.AssemblyInfo.cs
+C:\.Net Projects\FinTechAPI\FinTechAPI.Domain\obj\Debug\net7.0\FinTechAPI.Domain.csproj.CoreCompileInputs.cache
+C:\.Net Projects\FinTechAPI\FinTechAPI.Domain\obj\Debug\net7.0\FinTechAPI.Domain.dll
+C:\.Net Projects\FinTechAPI\FinTechAPI.Domain\obj\Debug\net7.0\refint\FinTechAPI.Domain.dll
+C:\.Net Projects\FinTechAPI\FinTechAPI.Domain\obj\Debug\net7.0\FinTechAPI.Domain.pdb
+C:\.Net Projects\FinTechAPI\FinTechAPI.Domain\obj\Debug\net7.0\ref\FinTechAPI.Domain.dll
+C:\.Net Projects\FinTechAPI\FinTechAPI.Domain\obj\Debug\net7.0\FinTechAPI.Domain.csproj.AssemblyReference.cache
