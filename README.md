@@ -7,14 +7,14 @@ A high-performance **FinTech API** built with **.NET 7**, providing **secure aut
 - ✅ Transaction Management (Deposit, Withdraw, Transfer)
 - ✅ Real-Time Balance Updates
 - ✅ Automated Unit & Integration Tests (xUnit, Moq)
-- ✅ API Documentation (Swagger/OpenAPI)
+- ✅ API Documentation (Swagger)
 
 ## 🏗 Tech Stack
 - **Back-End:** .NET 7, C#, ASP.NET Core Web API
-- **Database:** SQL Server (or PostgreSQL)
+- **Database:** SQL Server
 - **Testing:** xUnit, Moq, Integration Testing with TestServer
 - **Security:** JWT Authentication, Role-Based Access Control (RBAC)
-- **Third-Party API Integration:** Plaid (or Mock Banking API)
+- **Third-Party API Integration:** Plaid
 
 ## 🚀 Setup Instructions
 ### 1️⃣ Clone the Repo
